@@ -50,6 +50,9 @@ Include the screenshot of your admin page.
 ![output02(web)admin](https://github.com/user-attachments/assets/2d716997-c27a-478d-b030-424991950653)
 ![output02(web)](https://github.com/user-attachments/assets/29f90fa4-9421-4e93-83c3-5f6ab8951b35)
 ![output02 ii(web)cmd](https://github.com/user-attachments/assets/22e0f01d-22f3-4808-bd63-d2dd3ea5f938)
+![E_R diagram](https://github.com/user-attachments/assets/e1461803-37d6-4bae-8917-691cc2b32ec2)
+![output02(web)user](https://github.com/user-attachments/assets/3c9d3e50-1e3c-41cf-a713-6010235063fc)
+
 
 
 # RESULT
